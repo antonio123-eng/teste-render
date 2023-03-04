@@ -8,6 +8,7 @@
   },
   "type": "module",
   "scripts": {
+    "build": "backend index.js",
     "start": "node index.js"
   },
   "keywords": [],
